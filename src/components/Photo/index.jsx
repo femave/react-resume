@@ -3,7 +3,7 @@ import style from './main.scss'
 
 const Photo = () => {
 	return(
-		<div>
+		<div className={style.center}>
 		<img className={style.img} src={'http://res.cloudinary.com/femave/image/upload/v1504782819/bny8yxbkzxotnxbu0tlx.jpg'} alt={`Marc image`}/>
 		</div>
 		)
