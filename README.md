@@ -1,12 +1,7 @@
-###In progress
+# My Resume
 
-```
-npm start to install all dependencies
-```
+![Screenshot](http://res.cloudinary.com/femave/image/upload/v1506010648/screencapture-localhost-8080-1506010462386_q4z5lp.png)
 
-```
-npm run start will open a new window to localhost:8080 with live reload. 
-```
 
 
 
