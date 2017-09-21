@@ -6,6 +6,8 @@
   "scripts": {
     "start": "webpack-dev-server --open",
     "create": "webpack",
+    "build":"SET NODE_ENV='production' & webpack -p",
+    "deploy": " npm run build & firebase deploy",
     "production": "webpack -p"
   },
   "keywords": [],
