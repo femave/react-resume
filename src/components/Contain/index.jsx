@@ -1,4 +1,5 @@
 import React from 'react'
+import FontAwesome from 'react-fontawesome'
 
 import 'normalize-css'
 import style from './main.scss'

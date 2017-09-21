@@ -3,7 +3,10 @@ import style from './main.scss'
 
 const Title = () => {
 	return(
-		<h1>Title</h1>
+		<div>
+		<h1>Marc Vergara</h1>
+		<p>Front End Developer MEAN Stack</p>
+		</div>
 		)
 }
 
